@@ -1,0 +1,15 @@
+[KGameTheme]
+VersionFormat=1
+Name=Tux Tiles
+Description=Tiles of Tux being cool in outfits!
+FileName=tux_tiles.svgz
+Author=Israel Dahl and BartM (from openclipart)
+AuthorEmail=israeldahl@email.com
+Preview=tux_tiles.png
+
+# number of frames in the "remove" animation
+RemoveAnimFrames=1
+# this theme has a border to display around the board
+HasBorder=1
+# how many percent of each dimension of the board background contain the border graphics (0.05 means: the upper 5%, the lower 5%, the left 5%, and the right 5% of the board background are the border)
+BorderPercentage=0.03
