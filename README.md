@@ -1,7 +1,7 @@
 # KDiamond Themes
 
 This is literally what you think it is, if you think that these are themes for KDiamond!
-If you dont know KDiamond, (check it out)[https://games.kde.org/game.php?game=kdiamond]
+If you dont know KDiamond, [check it out](https://games.kde.org/game.php?game=kdiamond)
 
 Thanks to BartM making some nice Tux art on openclipart!  One less thing to draw :D
 
