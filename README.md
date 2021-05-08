@@ -6,7 +6,9 @@ If you dont know KDiamond, (check it out)[https://games.kde.org/game.php?game=kd
 Thanks to BartM making some nice Tux art on openclipart!  One less thing to draw :D
 
 ### Preview images
-
+![Alt text](rubix.png?raw=true "Rubix Cubix")
+![Alt text](blocks.png?raw=true "Blocks")
+![Alt text](blocks_circles.png?raw=true "Blocks and Circles")
 ![Alt text](tux_tiles.png?raw=true "Tux Tiles")
 ![Alt text](cute_bubbles.png?raw=true "Cute Bubbles")
 ![Alt text](flat_bubbles.png?raw=true "Flat Bubbles")
