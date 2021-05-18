@@ -6,16 +6,22 @@ If you dont know KDiamond, [check it out](https://games.kde.org/game.php?game=kd
 Thanks to (BartM)[https://openclipart.org/artist/BartM] making some nice Tux art on (openclipart)[https://openclipart.org]!  One less thing to draw :D
 
 ### Preview images
+
 ![Alt text](rubix.png?raw=true "Rubix Cubix")
+
 ![Alt text](blocks.png?raw=true "Blocks")
+
 ![Alt text](blocks_circles.png?raw=true "Blocks and Circles")
+
 ![Alt text](tux_tiles.png?raw=true "Tux Tiles")
+
 ![Alt text](cute_bubbles.png?raw=true "Cute Bubbles")
+
 ![Alt text](flat_bubbles.png?raw=true "Flat Bubbles")
 
 ## TO INSTALL
 
-Open your favorite file system navigation tool and copy these files into `~/.local/share/kdiamond/themes/`
+Open your favorite file system navigation tool and copy/clone these files into `~/.local/share/kdiamond/themes/`
 Then open up KDiamond and check them out!
 
 
